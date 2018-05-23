@@ -14,7 +14,7 @@ At first I find it appropriate to mention, that I am not a professional softvare
 
 If you want to try the program functionality on your system, run the script "[run.py](hyperlink to be added)".
 
-Edits
+### Edits
 
 Space
 * easier user input of multiple sources
